@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tuesdaysepic
+#
+
+projectname: tuesdaysepic
+vendorid: com.mariown.example
+mainmodule: com.mariown.example.tuesdaysepic
